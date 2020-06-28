@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: This is what I do.
-background: '/img/bg-about.jpg'
+background: '/img/70714f4a25bed8e081af.jpg'
 ---
 
 # CV Đinh Văn Thọ web developer
