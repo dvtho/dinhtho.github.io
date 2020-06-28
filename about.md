@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Me
-description: This is what I do.
+layout: Dinh Tho
+title: My CV
+description: Web developer.
 background: '/img/70714f4a25bed8e081af.jpg'
 ---
 
