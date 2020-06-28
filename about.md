@@ -1,5 +1,5 @@
 ---
-layout: Dinh Tho
+layout: about me
 title: My CV
 description: Web developer.
 background: '/img/70714f4a25bed8e081af.jpg'
