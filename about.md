@@ -1,9 +1,3 @@
----
-layout: 
-title:
-description:
-background: '/img/70714f4a25bed8e081af.jpg'
----
 
 # CV Đinh Văn Thọ web developer
 ## Thông tin
